@@ -1,3 +1,9 @@
+![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+
+## End of Life Statement
+
+This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md) that this software is no longer supported nor maintained by Packet or its community.
+
 ## netboot.xyz
 
 [![Build Status](https://travis-ci.org/antonym/netboot.xyz.svg?branch=master)](https://travis-ci.org/antonym/netboot.xyz) [![Doc Status](https://readthedocs.org/projects/netbootxyz/badge/?version=latest)](https://readthedocs.org/projects/netbootxyz) [![Gitter](https://badges.gitter.im/antonym/netboot.xyz.svg)](https://gitter.im/antonym/netboot.xyz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
